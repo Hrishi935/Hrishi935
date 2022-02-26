@@ -2,7 +2,7 @@
 - 👀 I’m interested in watching tv
 - 🌱 I’m currently learning maths
 - 💞️ I’m looking to collaborate on ...hrishi
-- 📫 How to reach me ...in skype
+- 📫 How to reach me ...
 
 <!---
 Hrishi935/Hrishi935 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
